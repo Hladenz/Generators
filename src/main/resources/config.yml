@@ -1,0 +1,70 @@
+GenBlock: 'ENDERPORTALFRAME'
+#Iron Gene
+Gens:
+  Iron:
+    SpawnEGGName: '&b&lIron Generator'
+    SpawnEGGMaterial: 'DOLPHIN_SPAWN_EGG'
+    CenenterBlock: 'IRON_BLOCK'
+    SpawnEGGLore:
+      -"&b&lPlace Me in /plots Inorder To earn Money"
+    GenPerSpeedCost: 400
+    GenPerpriceCost: 800
+    IncreasePerSpeed: 10
+    StartingSpeed: 240
+    IncreasePerprice: 1
+    BaseIncome: 20000
+    BaseIncomeIncrease: 5000
+  Gold:
+    SpawnEGGName: '&b&lGold Generator'
+    SpawnEGGMaterial: 'HORSE_SPAWN_EGG'
+    CenenterBlock: 'GOLD_BLOCK'
+    SpawnEGGLore:
+      -"&b&lPlace Me in /plots Inorder To earn Money"
+    GenPerSpeedCost: 400
+    GenPerpriceCost: 800
+    IncreasePerSpeed: 5
+    StartingSpeed: 180
+    IncreasePerprice: 1
+    BaseIncome: 50000
+    BaseIncomeIncrease: 10000
+  Diamond:
+    SpawnEGGName: '&b&lDiamond Generator'
+    SpawnEGGMaterial: 'PUFFERFISH_SPAWN_EGG'
+    CenenterBlock: 'DIAMOND_BLOCK'
+    SpawnEGGLore:
+      -"&b&lPlace Me in /plots Inorder To earn Money"
+    GenPerSpeedCost: 400
+    GenPerpriceCost: 800
+    IncreasePerSpeed: 4
+    StartingSpeed: 120
+    IncreasePerprice: 1
+    BaseIncome: 100000
+    BaseIncomeIncrease: 15000
+  Obsidian:
+    SpawnEGGName: '&b&lObsidian Generator'
+    SpawnEGGMaterial: 'PHANTOM_SPAWN_EGG'
+    CenenterBlock: 'DIAMOND_BLOCK'
+    SpawnEGGLore:
+      -"&b&lPlace Me in /plots Inorder To earn Money"
+    GenPerSpeedCost: 400
+    GenPerpriceCost: 800
+    IncreasePerSpeed: 4
+    StartingSpeed: 120
+    IncreasePerprice: 1
+    BaseIncome: 100000
+    BaseIncomeIncrease: 15000
+  Bedrock:
+    SpawnEGGName: '&b&l&nBedrock Generator'
+    SpawnEGGMaterial: 'WITHER_SKELETON_SPAWN_EGG'
+    CenenterBlock: 'BEDROCK'
+    SpawnEGGLore:
+      -"&b&lPlace Me in /plots Inorder To earn Money"
+    GenPerSpeedCost: 400
+    GenPerpriceCost: 800
+    IncreasePerSpeed: 5
+    StartingSpeed: 120
+    IncreasePerprice: 1
+    BaseIncome: 250000
+    BaseIncomeIncrease: 25000
+
+

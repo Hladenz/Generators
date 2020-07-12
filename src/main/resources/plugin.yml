@@ -1,0 +1,12 @@
+name: Gen
+version: ${project.version}
+main: xyz.crystallizedprison.generators.Generators
+api-version: 1.13
+authors: [Hladenz]
+depend:
+  - Vault
+  - Multiverse-Core
+description: Offical Plugin for
+commands:
+  Generator:
+    description: main command for gens
